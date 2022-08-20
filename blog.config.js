@@ -2,7 +2,7 @@ const BLOG = {
   title: "Hellstabber's Web Archive",
   author: 'Eren Kaplan',
   email: 'ek.xcodeproject@icloud.com',
-  link: 'https:///hellstabber-blog.vercel.app',
+  link: 'https://pepegapepe.ga',
   description: 'Another day, a different dream perhaps?',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
