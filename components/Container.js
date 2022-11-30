@@ -81,6 +81,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
         <Footer fullWidth={fullWidth} />
       </div>
     </div>
+    <a rel="me" href="https://ieji.de/@eren"></a>
   )
 }
 
