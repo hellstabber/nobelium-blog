@@ -1,7 +1,7 @@
 const BLOG = {
   title: "Hellstabber's Web Archive",
   author: 'Eren Kaplan',
-  email: 'ek.xcodeproject@icloud.com',
+  email: 'ek.xcodeproject@gmail.com',
   link: 'https://pepegapepe.ga',
   description: 'Another day, a different dream perhaps?',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -14,12 +14,12 @@ const BLOG = {
   postsPerPage: 10,
   sortByDate: true,
   showAbout: true,
-  showArchive: true,
+  showArchive: false,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/hellstabber',
   seo: {
-    keywords: ['hellstabber', 'Eren', 'Kaplan', 'Eren Kaplan', 'Jailbreak', 'Japonca', 'Ruby', 'Rust', 'Python', 'iOS', 'macOS'],
+    keywords: ['hellstabber', 'Eren', 'Kaplan', 'Eren Kaplan', 'Jailbreak', 'Ruby', 'Rust', 'Swift', 'Objective-C', 'Flutter', 'iOS', 'macOS'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
